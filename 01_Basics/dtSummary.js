@@ -34,3 +34,4 @@ const myFunction = function(){
 }
 console.log(typeof myFunction);
 
+console.log("My Name");
